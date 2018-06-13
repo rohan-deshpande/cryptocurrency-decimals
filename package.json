@@ -1,7 +1,7 @@
 {
   "name": "cryptocurrency-decimals",
   "description": "Utility library for formatting cryptocurrency coins and token amounts to the correct number of decimal places",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/rohan-deshpande/cryptocurrency-decimals",
   "repository": "https://github.com/rohan-deshpande/cryptocurrency-decimals",
   "author": "Rohan Deshpande <rohan@creativelifeform.com> (http://rohandeshpande.com/)",
@@ -37,5 +37,5 @@
     "webpack": "^2.3.3",
     "yargs": "^7.0.2"
   },
-  "main": "dist/index.js"
+  "main": "dist/cryptocurrency-decimals.js"
 }
