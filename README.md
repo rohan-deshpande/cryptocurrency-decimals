@@ -4,13 +4,13 @@ Simple utility library for formatting cryptocurrency coins and token amounts to 
 
 ## Installation
 
-```
+```bash
 npm i cryptocurrency-decimals --save
 ```
 
 ## Usage
 
-```
+```javascript
 import decimals, { decimalize } from 'cryptocurrency-decimals';
 
 const btcAmount = 0.99884421;
@@ -28,7 +28,7 @@ console.log(decimals['BTC']);
 
 Currently only a few symbols are supported, please submit a PR to add more!
 
-```
+```bash
 AUD
 AUDT
 BTC
