@@ -130,18 +130,19 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
  * @const {object} DECIMALS - coin/token decimal place numbers
  */
 var DECIMALS = {
+  ADA: 6,
   AUD: 2,
   AUDT: 2,
-  BTC: 8,
   BCH: 8,
+  BTC: 8,
   ETH: 16,
+  NANO: 6,
   NEO: 2,
   USD: 2,
   USDT: 2,
+  VEN: 16,
   XRB: 6,
-  NANO: 6,
-  XRP: 15,
-  VEN: 16
+  XRP: 15
 };
 
 /**
