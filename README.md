@@ -29,16 +29,17 @@ console.log(decimals['BTC']);
 Currently only a few symbols are supported, please submit a PR to add more!
 
 ```bash
+ADA
 AUD
 AUDT
-BTC
 BCH
+BTC
 ETH
+NANO
 NEO
 USD
 USDT
-XRB
-NANO
-XRP
 VEN
+XRB
+XRP
 ```
